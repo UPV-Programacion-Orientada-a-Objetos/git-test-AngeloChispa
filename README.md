@@ -1,3 +1,2 @@
-Repo de prueba Git clase 1
+Este es el README.md de mi segundo commit
 
-Esto es el archivo README.md
